@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.andromedea.live"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>SysMOND Live</name>
+
+    <description>
+        SysMOND Live Web Monitor for your business. 
+    </description>
+
+    <author href="http://www.sysmond.com.tr" email="info@sysmond.com.tr">
+        SysMOND  
+    </author>
+
+</widget>
